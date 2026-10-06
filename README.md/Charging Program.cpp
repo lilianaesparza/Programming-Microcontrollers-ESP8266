@@ -13,7 +13,7 @@
 //          and calculated battery voltage are displayed in
 //          the Serial Monitor.
 //
-// Date: October 2026
+// Date: October 5 2026
 //
 // Compiler: PlatformIO IDE / Arduino Framework
 //
